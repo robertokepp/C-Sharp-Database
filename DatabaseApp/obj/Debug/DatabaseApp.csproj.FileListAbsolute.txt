@@ -1,0 +1,11 @@
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\DatabaseApp\bin\Debug\DatabaseApp.dll
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\DatabaseApp\bin\Debug\DatabaseApp.pdb
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\DatabaseApp\bin\Debug\Google.Protobuf.dll
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\DatabaseApp\bin\Debug\MySql.Data.dll
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\DatabaseApp\bin\Debug\Google.Protobuf.xml
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\DatabaseApp\bin\Debug\MySql.Data.xml
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\DatabaseApp\obj\Debug\DatabaseApp.csprojAssemblyReference.cache
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\DatabaseApp\obj\Debug\DatabaseApp.csproj.CoreCompileInputs.cache
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\DatabaseApp\obj\Debug\DatabaseApp.csproj.CopyComplete
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\DatabaseApp\obj\Debug\DatabaseApp.dll
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\DatabaseApp\obj\Debug\DatabaseApp.pdb

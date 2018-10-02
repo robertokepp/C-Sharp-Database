@@ -1,0 +1,16 @@
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\WindowsFormsApp\bin\Debug\DatabaseApp.dll
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\WindowsFormsApp\bin\Debug\MySql.Data.dll
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\WindowsFormsApp\bin\Debug\Google.Protobuf.dll
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\WindowsFormsApp\bin\Debug\DatabaseApp.pdb
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\WindowsFormsApp\bin\Debug\MySql.Data.xml
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\WindowsFormsApp\bin\Debug\Google.Protobuf.xml
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\rkepp\source\repos\C_Sharp_With_Database\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
